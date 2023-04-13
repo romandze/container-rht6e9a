@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "romandze",
+  "repo": "container-rht6e9a",
+  "name": "romandze",
+}
